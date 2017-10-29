@@ -14,3 +14,4 @@ function divide(a,b) {
   return a /= b
 }
 divide(62,8)
+inc(n)
