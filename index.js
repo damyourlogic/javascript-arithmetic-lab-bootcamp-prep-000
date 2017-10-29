@@ -18,9 +18,9 @@ divide(62,8)
 function inc(n) {
   return n++;
 }
-inc(3);
+inc(455);
 
 function dec(n){
   return n--;
 }
-dec(3);
+dec(192);
